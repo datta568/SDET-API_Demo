@@ -1,0 +1,6 @@
+2020-10-08 10:14:49,663 WARN  [SoapUI] Missing folder [C:\Users\ManoharChebrolu\Desktop\Project\my-app\ext] for external libraries
+2020-10-08 10:14:49,952 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\ManoharChebrolu\soapui-settings.xml]
+2020-10-08 10:14:50,600 INFO  [WsdlProject] Loaded project from [file:/C:/Users/ManoharChebrolu/Desktop/Project/my-app/Shopping-Service-WSDL-soapui-project.xml]
+2020-10-08 10:14:50,898 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [calculator]
+2020-10-08 10:14:50,901 INFO  [SoapUITestCaseRunner] Running Project [calculator], runType = SEQUENTIAL
+2020-10-08 10:14:50,912 INFO  [SoapUITestCaseRunner] Project [calculator] finished with status [FINISHED] in 0ms
